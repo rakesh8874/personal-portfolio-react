@@ -13,7 +13,7 @@ const Frontend = ()=>{
                             HTML
                             </h3>
                             <span className="skills__level">
-                            Basic
+                             Intermediate
                             </span>
                         </div>
                     </div>
@@ -67,10 +67,10 @@ const Frontend = ()=>{
                         <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">
-                                Git
+                                Tailwind CSS
                             </h3>
                             <span className="skills__level">
-                            Intermediate
+                             Basic
                             </span>
                         </div>
                     </div>

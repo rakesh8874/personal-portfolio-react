@@ -54,9 +54,9 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Visual Designer</h3>
+      <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        I'm creative designer based in New York, and I'm very passionate and dedicated to my work.
+        I'm a backend developer having hands on experience in designing and implementing server side applications.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

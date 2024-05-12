@@ -10,32 +10,32 @@ const Backend = ()=>{
                     <i className="bx bx-badge-check"></i>
                     <div>
                         <h3 className="skills__name">
-                            PHP
-                        </h3>
-                        <span className="skills__level">
-                        Intermediate
-                        </span>
-                    </div>
-                </div>
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">
-                            Node Js
-                        </h3>
-                        <span className="skills__level">
-                            Basic
-                        </span>
-                    </div>
-                </div>
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">
                             Python
                         </h3>
                         <span className="skills__level">
-                        Intermediate
+                        Advanced
+                        </span>
+                    </div>
+                </div>
+                <div className="skills__data">
+                    <i className="bx bx-badge-check"></i>
+                    <div>
+                        <h3 className="skills__name">
+                            Django
+                        </h3>
+                        <span className="skills__level">
+                            Advanced
+                        </span>
+                    </div>
+                </div>
+                <div className="skills__data">
+                    <i className="bx bx-badge-check"></i>
+                    <div>
+                        <h3 className="skills__name">
+                            PostgreSql
+                        </h3>
+                        <span className="skills__level">
+                        Advanced
                         </span>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const Backend = ()=>{
                     <i className="bx bx-badge-check"></i>
                     <div>
                         <h3 className="skills__name">
-                            MySQL
+                            Java
                         </h3>
                         <span className="skills__level">
                         Intermediate
@@ -56,7 +56,18 @@ const Backend = ()=>{
                     <i className="bx bx-badge-check"></i>
                     <div>
                         <h3 className="skills__name">
-                        Firebase
+                        Docker
+                        </h3>
+                        <span className="skills__level">
+                        Intermediate
+                        </span>
+                    </div>
+                </div>
+                <div className="skills__data">
+                    <i className="bx bx-badge-check"></i>
+                    <div>
+                        <h3 className="skills__name">
+                        Kubernetes
                         </h3>
                         <span className="skills__level">
                         Intermediate
